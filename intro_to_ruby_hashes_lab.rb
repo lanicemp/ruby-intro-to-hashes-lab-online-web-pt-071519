@@ -33,8 +33,8 @@ monopoly = {
 	    :pieces => 4,
 	    :names => {},
 	    :rent_in_dollars => {
-	      :one_piece_owned => 25
-	      :two_pieces_owed => 50 
+	      :one_piece_owned => 25,
+	      :two_pieces_owned => 50 
 	    }
 	  }
 	}
